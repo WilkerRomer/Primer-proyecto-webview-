@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WebView</string>
+    <string name="text_p">Ingresa sitio Web</string>
+    <string name="button_activi1">Ir a Web</string>
+    <string name="button_activi2">Anterior</string>
+    <string name="text_mail">Ingrese su Email aquí</string>
+    <string name="button_emil">Ir a Email</string>
+    <string name="text_plainText">Nombre del Contacto</string>
+    <string name="text_multi">Datos del Contacto</string>
+    <string name="boton_guardar">guardar</string>
+    <string name="boton_buscar">buscar</string>
+</resources>
